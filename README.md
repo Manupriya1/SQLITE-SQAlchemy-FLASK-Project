@@ -13,6 +13,7 @@ As we can see below the average temperature is around 75 degrees with standard d
 ### December Temperature and Statistical Data:
 
 As we can see the average temperature is ~ 71 degrees and satndard deviation is 3.7 degrees
+
 ![Dec temp data](https://user-images.githubusercontent.com/69255270/118411788-300ea280-b64b-11eb-96b9-d07a4ad38d42.jpg)
 ![Stat Dec](https://user-images.githubusercontent.com/69255270/118411791-34d35680-b64b-11eb-9173-999f881dfe9d.jpg)
 
