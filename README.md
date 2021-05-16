@@ -28,5 +28,5 @@ This data looks encouraging, as the average temperatures in the month of june an
 - precipitation data for both months 
 - and number of days on an average december has minimum temperature around 56 degrees. 
 - Also I will analysis station data for precipitation and temerature data. 
--
+
 
